@@ -1,0 +1,53 @@
+.navbar {
+    background-color: rgba(32, 29, 29,0.5);
+    font-size:30px;
+
+    font-family: 'Amatic SC', cursive;
+}
+
+.carouselExampleFade {
+    height: 100vh;
+
+}
+ 
+.card{
+    margin: 30px;
+    font-size:12px;    
+}
+
+.container{
+    
+    margin-top: 10px;
+}
+
+body{
+    background-image:url("фон.jpg");
+    background-size: cover;
+}
+.col{
+    color:antiquewhite;
+}
+#collapseOne{
+    background: rgb(32, 29, 29);
+    color: antiquewhite;
+}
+#collapseTwo
+{color: antiquewhite;
+    background: rgb(32, 29, 29)};
+ 
+br {
+    color: rgb(230, 178, 178);
+}
+   footer{
+color: antiquewhite;
+background-color: rgba(7, 7, 7,0.5)
+;padding: 2%;
+} 
+
+#had{ color: rgb(25, 70, 252);
+
+
+}
+#conect{ margin-top:auto
+    margin-right: 5%;
+}
